@@ -1,0 +1,9 @@
+C:\Users\jrat01\Desktop\SideProj\GenericDispatcher\GenericDispatcher\GenericDispatcher\bin\Debug\GenericDispatcher.dll
+C:\Users\jrat01\Desktop\SideProj\GenericDispatcher\GenericDispatcher\GenericDispatcher\bin\Debug\GenericDispatcher.pdb
+C:\Users\jrat01\Desktop\SideProj\GenericDispatcher\GenericDispatcher\GenericDispatcher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jrat01\Desktop\SideProj\GenericDispatcher\GenericDispatcher\GenericDispatcher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jrat01\Desktop\SideProj\GenericDispatcher\GenericDispatcher\GenericDispatcher\obj\Debug\GenericDispatcher.csprojAssemblyReference.cache
+C:\Users\jrat01\Desktop\SideProj\GenericDispatcher\GenericDispatcher\GenericDispatcher\obj\Debug\GenericDispatcher.csproj.CoreCompileInputs.cache
+C:\Users\jrat01\Desktop\SideProj\GenericDispatcher\GenericDispatcher\GenericDispatcher\obj\Debug\GenericDispatcher.csproj.CopyComplete
+C:\Users\jrat01\Desktop\SideProj\GenericDispatcher\GenericDispatcher\GenericDispatcher\obj\Debug\GenericDispatcher.dll
+C:\Users\jrat01\Desktop\SideProj\GenericDispatcher\GenericDispatcher\GenericDispatcher\obj\Debug\GenericDispatcher.pdb
