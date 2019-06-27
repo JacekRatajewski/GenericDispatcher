@@ -9,10 +9,10 @@ namespace GenericDispatcher
     {
         public static async Task<T> Dispatch(string path, Encoding encoding)
         {
-            using (var file = new StreamReader(path))
+            using (var file = new StreamReader(path, encoding))
             {
                 string json = await file.ReadToEndAsync();
-                var data = JsonConvert.DeserializeObject<T>(encoding.GetString(Encoding.Default.GetBytes(json)));
+                var data = JsonConvert.DeserializeObject<T>(json);
                 return data;
             }
         }
