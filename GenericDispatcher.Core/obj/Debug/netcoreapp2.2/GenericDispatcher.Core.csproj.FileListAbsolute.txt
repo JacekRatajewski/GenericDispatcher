@@ -1,0 +1,9 @@
+C:\Users\jrat01\Desktop\SideProj\GenericDispatcher\Nowy folder\GenericDispatcher.Core\bin\Debug\netcoreapp2.2\GenericDispatcher.Core.deps.json
+C:\Users\jrat01\Desktop\SideProj\GenericDispatcher\Nowy folder\GenericDispatcher.Core\bin\Debug\netcoreapp2.2\GenericDispatcher.Core.dll
+C:\Users\jrat01\Desktop\SideProj\GenericDispatcher\Nowy folder\GenericDispatcher.Core\obj\Debug\netcoreapp2.2\GenericDispatcher.Core.csprojAssemblyReference.cache
+C:\Users\jrat01\Desktop\SideProj\GenericDispatcher\Nowy folder\GenericDispatcher.Core\obj\Debug\netcoreapp2.2\GenericDispatcher.Core.csproj.CoreCompileInputs.cache
+C:\Users\jrat01\Desktop\SideProj\GenericDispatcher\Nowy folder\GenericDispatcher.Core\obj\Debug\netcoreapp2.2\GenericDispatcher.Core.AssemblyInfoInputs.cache
+C:\Users\jrat01\Desktop\SideProj\GenericDispatcher\Nowy folder\GenericDispatcher.Core\obj\Debug\netcoreapp2.2\GenericDispatcher.Core.AssemblyInfo.cs
+C:\Users\jrat01\Desktop\SideProj\GenericDispatcher\Nowy folder\GenericDispatcher.Core\bin\Debug\netcoreapp2.2\GenericDispatcher.Core.pdb
+C:\Users\jrat01\Desktop\SideProj\GenericDispatcher\Nowy folder\GenericDispatcher.Core\obj\Debug\netcoreapp2.2\GenericDispatcher.Core.dll
+C:\Users\jrat01\Desktop\SideProj\GenericDispatcher\Nowy folder\GenericDispatcher.Core\obj\Debug\netcoreapp2.2\GenericDispatcher.Core.pdb
