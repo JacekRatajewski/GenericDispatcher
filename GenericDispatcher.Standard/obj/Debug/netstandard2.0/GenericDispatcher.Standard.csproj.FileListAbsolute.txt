@@ -1,0 +1,9 @@
+C:\Users\jrat01\Desktop\SideProj\GenericDispatcher\Nowy folder\GenericDispatcher.Standard\bin\Debug\netstandard2.0\GenericDispatcher.Standard.deps.json
+C:\Users\jrat01\Desktop\SideProj\GenericDispatcher\Nowy folder\GenericDispatcher.Standard\bin\Debug\netstandard2.0\GenericDispatcher.Standard.dll
+C:\Users\jrat01\Desktop\SideProj\GenericDispatcher\Nowy folder\GenericDispatcher.Standard\obj\Debug\netstandard2.0\GenericDispatcher.Standard.csprojAssemblyReference.cache
+C:\Users\jrat01\Desktop\SideProj\GenericDispatcher\Nowy folder\GenericDispatcher.Standard\obj\Debug\netstandard2.0\GenericDispatcher.Standard.csproj.CoreCompileInputs.cache
+C:\Users\jrat01\Desktop\SideProj\GenericDispatcher\Nowy folder\GenericDispatcher.Standard\obj\Debug\netstandard2.0\GenericDispatcher.Standard.AssemblyInfoInputs.cache
+C:\Users\jrat01\Desktop\SideProj\GenericDispatcher\Nowy folder\GenericDispatcher.Standard\obj\Debug\netstandard2.0\GenericDispatcher.Standard.AssemblyInfo.cs
+C:\Users\jrat01\Desktop\SideProj\GenericDispatcher\Nowy folder\GenericDispatcher.Standard\bin\Debug\netstandard2.0\GenericDispatcher.Standard.pdb
+C:\Users\jrat01\Desktop\SideProj\GenericDispatcher\Nowy folder\GenericDispatcher.Standard\obj\Debug\netstandard2.0\GenericDispatcher.Standard.dll
+C:\Users\jrat01\Desktop\SideProj\GenericDispatcher\Nowy folder\GenericDispatcher.Standard\obj\Debug\netstandard2.0\GenericDispatcher.Standard.pdb
