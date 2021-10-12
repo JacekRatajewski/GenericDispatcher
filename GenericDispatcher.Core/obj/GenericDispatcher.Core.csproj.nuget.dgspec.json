@@ -1,38 +1,40 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jrat01\\Desktop\\SideProj\\GenericDispatcher\\Nowy folder\\GenericDispatcher.Core\\GenericDispatcher.Core.csproj": {}
+    "C:\\Users\\jrat01\\Documents\\GitHub\\GenericDispatcher\\GenericDispatcher.Core\\GenericDispatcher.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jrat01\\Desktop\\SideProj\\GenericDispatcher\\Nowy folder\\GenericDispatcher.Core\\GenericDispatcher.Core.csproj": {
+    "C:\\Users\\jrat01\\Documents\\GitHub\\GenericDispatcher\\GenericDispatcher.Core\\GenericDispatcher.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jrat01\\Desktop\\SideProj\\GenericDispatcher\\Nowy folder\\GenericDispatcher.Core\\GenericDispatcher.Core.csproj",
+        "projectUniqueName": "C:\\Users\\jrat01\\Documents\\GitHub\\GenericDispatcher\\GenericDispatcher.Core\\GenericDispatcher.Core.csproj",
         "projectName": "GenericDispatcher.Core",
-        "projectPath": "C:\\Users\\jrat01\\Desktop\\SideProj\\GenericDispatcher\\Nowy folder\\GenericDispatcher.Core\\GenericDispatcher.Core.csproj",
+        "projectPath": "C:\\Users\\jrat01\\Documents\\GitHub\\GenericDispatcher\\GenericDispatcher.Core\\GenericDispatcher.Core.csproj",
         "packagesPath": "C:\\Users\\jrat01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jrat01\\Desktop\\SideProj\\GenericDispatcher\\Nowy folder\\GenericDispatcher.Core\\obj\\",
+        "outputPath": "C:\\Users\\jrat01\\Documents\\GitHub\\GenericDispatcher\\GenericDispatcher.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\jrat01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.2"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\jrat01\\Desktop\\SideProj\\GenericDispatcher\\GenericDispatcher": {},
           "\\\\itdev\\sites\\NugetPackages": {},
+          "\\\\itdev\\sites\\NugetPackages_TEST": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.2": {
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -43,24 +45,30 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.2": {
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
-            "Microsoft.NETCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.2.0, )",
-              "autoReferenced": true
-            },
             "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[12.0.2, )"
+              "version": "[13.0.1, )"
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.7.21379.14\\RuntimeIdentifierGraph.json"
         }
       }
     }
