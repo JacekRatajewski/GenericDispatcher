@@ -1,5 +1,6 @@
 # GenericDispatcher
 ![](https://i.imgur.com/VmMlMrm.png)
+
 Generic Dispatcher - Module managing saving and loading data from/to json file.
 Using: [Newtonsoft](https://www.newtonsoft.com/json)
 **Adopt to file example:**
