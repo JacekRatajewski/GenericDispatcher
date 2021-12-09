@@ -1,25 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jrat01\\Documents\\GitHub\\GenericDispatcher\\GenericDispatcher.Core\\GenericDispatcher.Core.csproj": {}
+    "C:\\Users\\DARK\\Source\\Repos\\JacekRatajewski\\GenericDispatcher\\GenericDispatcher.Core\\GenericDispatcher.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jrat01\\Documents\\GitHub\\GenericDispatcher\\GenericDispatcher.Core\\GenericDispatcher.Core.csproj": {
+    "C:\\Users\\DARK\\Source\\Repos\\JacekRatajewski\\GenericDispatcher\\GenericDispatcher.Core\\GenericDispatcher.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jrat01\\Documents\\GitHub\\GenericDispatcher\\GenericDispatcher.Core\\GenericDispatcher.Core.csproj",
+        "projectUniqueName": "C:\\Users\\DARK\\Source\\Repos\\JacekRatajewski\\GenericDispatcher\\GenericDispatcher.Core\\GenericDispatcher.Core.csproj",
         "projectName": "GenericDispatcher.Core",
-        "projectPath": "C:\\Users\\jrat01\\Documents\\GitHub\\GenericDispatcher\\GenericDispatcher.Core\\GenericDispatcher.Core.csproj",
-        "packagesPath": "C:\\Users\\jrat01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jrat01\\Documents\\GitHub\\GenericDispatcher\\GenericDispatcher.Core\\obj\\",
+        "projectPath": "C:\\Users\\DARK\\Source\\Repos\\JacekRatajewski\\GenericDispatcher\\GenericDispatcher.Core\\GenericDispatcher.Core.csproj",
+        "packagesPath": "C:\\Users\\DARK\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DARK\\Source\\Repos\\JacekRatajewski\\GenericDispatcher\\GenericDispatcher.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\jrat01\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\DARK\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -28,8 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "\\\\itdev\\sites\\NugetPackages": {},
-          "\\\\itdev\\sites\\NugetPackages_TEST": {},
+          "C:\\Users\\DARK\\Documents": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -68,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.7.21379.14\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
